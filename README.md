@@ -1,2 +1,2 @@
 # clash-dashboard-kubernetes
-A deployment directly to my kubernetes cluster for clash-dashboard
+This is a test implementation of Kubernetes manifests for an implementation of argoCD in my cluster.
